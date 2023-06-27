@@ -10,8 +10,6 @@ num = "10.5"
 print(" MD. ZAHID HASSAN ",end=(""))
 print(" 01521545594 ")
 
-
-
 print(type(num))
 
 num1 = 10
